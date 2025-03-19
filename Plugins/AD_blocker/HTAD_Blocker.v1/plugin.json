@@ -1,0 +1,8 @@
+{
+  "name": "HTAD_Blocker",
+  "repo": "https://github.com/k1ttywnn/HTLibrary.git",
+  "version": "1.0.0",
+  "description": "Advanced ad blocking plugin",
+  "author": "k1ttywnn",
+  "dependencies": []
+}
